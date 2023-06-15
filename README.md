@@ -2,7 +2,6 @@
 <h1>
   <div id="header" align="center">
   🚀About Me! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     
 🎓 I'm Mert Coskuner, a junior Computer Science and Engineering student specializing in C++, Python, and Solidity. With two previous internships under my belt, I have gained valuable industry experience and a solid foundation in software development.
