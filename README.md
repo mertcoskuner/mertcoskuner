@@ -19,7 +19,7 @@
 <h2 align="left">🚀 Projects:</h2>
 
 <br clear="both">
-<p align="left"><li><strong>Digistanbul:</strong></li><br>A user-friendly application designed for exploring Istanbul's attractions. It stores information on cafes, restaurants, and landmarks, offering personalized recommendations. Users can engage by commenting, rating, and creating accounts. The database includes key details for informed decisions. "Digistanbul" aims to simplify and enhance the discovery of Istanbul's diverse offerings through this intuitive application.</p>
+<p align="left"><li>Digistanbul:</li><br>A user-friendly application designed for exploring Istanbul's attractions. It stores information on cafes, restaurants, and landmarks, offering personalized recommendations. Users can engage by commenting, rating, and creating accounts. The database includes key details for informed decisions. "Digistanbul" aims to simplify and enhance the discovery of Istanbul's diverse offerings through this intuitive application.</p>
 
 <p align="left"><li><strong>DiSUcord:</strong></li><br>A Sabancı University (SU) version of Discord, with Client and Server modules. The Server oversees messages and channels, while the Client subscribes to channels, sends messages, and views subscribed channel messages. Clients connect by providing their IP address and port via a GUI, identifying themselves with unique usernames. The server maintains a list of connected usernames to prevent duplicates, aiming to create an efficient and secure message networking application for Sabancı University.</p>
 
