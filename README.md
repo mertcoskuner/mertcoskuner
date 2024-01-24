@@ -4,7 +4,6 @@
 
 <h5 align="left">Currently, a junior Computer Science and Engineering student at Sabanci University</h5>
 
-###
 
 <p align="left">I have a profound enthusiasm for problem-solving and thrive on contributing to my environment through interdisciplinary approaches. Currently a junior student at Sabanci University, my academic foundation is rooted in data structures and object-oriented programming. I am deeply passionate about Software Engineering, with a keen interest in exploring the latest advancements in Mobile Development, Machine Learning, and Data Science.</p>
 
@@ -19,7 +18,6 @@
 
 <h2 align="left">🚀 Projects:</h2>
 
-###
 
 <br clear="both">
 
@@ -37,11 +35,9 @@
 
 <h2 align="left">📫 How to reach me:</h2>
 
-###
 
 <p align="left">I'm open to exploring new opportunities, engaging in exciting projects, and tackling fresh challenges. Whether you're considering a potential collaboration, have inquiries about any of my projects, or simply want to extend a greeting, don't hesitate to get in touch. Connect with me on LinkedIn or drop me a message at mertcoskuner@gmail.com. I look forward to hearing from you!</p>
 
-###
 
 <h2 align="left">⚙️ Technologies:</h2>
 
