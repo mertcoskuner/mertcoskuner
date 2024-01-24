@@ -1,20 +1,20 @@
 <h2 align="left">Hi 👋 I'm Mert!</h2>
 
-###
+
 
 <h5 align="left">Currently, a junior Computer Science and Engineering student at Sabanci University</h5>
 
 
 <p align="left">I have a profound enthusiasm for problem-solving and thrive on contributing to my environment through interdisciplinary approaches. Currently a junior student at Sabanci University, my academic foundation is rooted in data structures and object-oriented programming. I am deeply passionate about Software Engineering, with a keen interest in exploring the latest advancements in Mobile Development, Machine Learning, and Data Science.</p>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mertcoskuner&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertcoskuner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <h2 align="left">🚀 Projects:</h2>
 
@@ -41,7 +41,6 @@
 
 <h2 align="left">⚙️ Technologies:</h2>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
@@ -67,8 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
 </div>
 
-###
+
 
 <img src="https://raw.githubusercontent.com/mertcoskuner/mertcoskuner/output/snake.svg" alt="Snake animation" />
 
-###
