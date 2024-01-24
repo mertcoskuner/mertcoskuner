@@ -19,32 +19,14 @@
 <h2 align="left">🚀 Projects:</h2>
 
 <br clear="both">
+<p align="left"><li><strong>Digistanbul:</strong></li><br>A user-friendly application designed for exploring Istanbul's attractions. It stores information on cafes, restaurants, and landmarks, offering personalized recommendations. Users can engage by commenting, rating, and creating accounts. The database includes key details for informed decisions. "Digistanbul" aims to simplify and enhance the discovery of Istanbul's diverse offerings through this intuitive application.</p>
 
-<ul>
-  <li><strong>Digistanbul:</strong></li>
-  <li>A user-friendly application designed for exploring Istanbul's attractions.</li>
-  <li>Stores information on cafes, restaurants, and landmarks, offering personalized recommendations.</li>
-  <li>Users can engage by commenting, rating, and creating accounts.</li>
-  <li>The database includes key details for informed decisions.</li>
-  <li>"Digistanbul" aims to simplify and enhance the discovery of Istanbul's diverse offerings through this intuitive application.</li>
-</ul>
+<p align="left"><li><strong>DiSUcord:</strong></li><br>A Sabancı University (SU) version of Discord, with Client and Server modules. The Server oversees messages and channels, while the Client subscribes to channels, sends messages, and views subscribed channel messages. Clients connect by providing their IP address and port via a GUI, identifying themselves with unique usernames. The server maintains a list of connected usernames to prevent duplicates, aiming to create an efficient and secure message networking application for Sabancı University.</p>
 
-<ul>
-  <li><strong>DiSUcord:</strong></li>
-  <li>A Sabancı University (SU) version of Discord, with Client and Server modules.</li>
-  <li>The Server oversees messages and channels.</li>
-  <li>The Client subscribes to channels, sends messages, and views subscribed channel messages.</li>
-  <li>Clients connect by providing their IP address and port via a GUI, identifying themselves with unique usernames.</li>
-  <li>The server maintains a list of connected usernames to prevent duplicates, aiming to create an efficient and secure message networking application for Sabancı University.</li>
-</ul>
 
-<ul>
-  <li><strong>HealthDB:</strong></li>
-  <li>Focuses on developing a database application to streamline and manage hospital operations and patient relations effectively.</li>
-  <li>Leverages MYSQL as the database management system.</li>
-  <li>Utilizes a total of 7 entities: hospital, department, doctor, patient, person (utilized as IS-A), appointment, and medical record.</li>
-  <li>Aims to create a robust system that efficiently organizes and integrates information, enhancing the overall functionality of hospital workflows and improving patient care.</li>
-</ul>
+
+<p align="left"><li><strong>HealthDB:</strong></li><br>This project focuses on developing a database application to streamline and manage hospital operations and patient relations effectively. Leveraging MYSQL as the database management system, we plan to utilize a total of 7 entities: hospital, department, doctor, patient, person (utilized as IS-A), appointment, and medical record. The goal is to create a robust system that efficiently organizes and integrates information, enhancing the overall functionality of hospital workflows and improving patient care.</p>
+
 
 <br clear="both">
 
