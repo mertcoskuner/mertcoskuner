@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Currently a junior Computer Science and Engineering student at Sabanci University</h5>
+<h5 align="left">Currently, a junior Computer Science and Engineering student at Sabanci University</h5>
 
 ###
 
@@ -23,15 +23,15 @@
 
 <br clear="both">
 
-<h5 align="left">Digistanbul: <br>A user-friendly application designed for exploring Istanbul's attractions. It stores information on cafes, restaurants, and landmarks, offering personalized recommendations. Users can engage by commenting, rating, and creating accounts. The database includes key details for informed decisions. "Digistanbul" aims to simplify and enhance the discovery of Istanbul's diverse offerings through this intuitive application.</h5>
+<p align="left">Digistanbul: <br>A user-friendly application designed for exploring Istanbul's attractions. It stores information on cafes, restaurants, and landmarks, offering personalized recommendations. Users can engage by commenting, rating, and creating accounts. The database includes key details for informed decisions. "Digistanbul" aims to simplify and enhance the discovery of Istanbul's diverse offerings through this intuitive application.</p>
 
 ###
 
-<h5 align="left">HealthDB: <br>This project focuses on developing a database application to streamline and manage hospital operations and patient relations effectively. Leveraging MYSQL as the database management system, we plan to utilize a total of 7 entities: hospital, department, doctor, patient, person (utilized as IS-A), appointment, and medical record. The goal is to create a robust system that efficiently organizes and integrates information, enhancing the overall functionality of hospital workflows and improving patient care.</h5>
+<p align="left">DiSUcord:<br>A Sabancı University (SU) version of Discord, with Client and Server modules. The Server oversees messages and channels, while the Client subscribes to channels, sends messages, and views subscribed channel messages. Clients connect by providing their IP address and port via a GUI, identifying themselves with unique usernames. The server maintains a list of connected usernames to prevent duplicates, aiming to create an efficient and secure message networking application for Sabancı University.</p>
 
 ###
 
-<h5 align="left">DiSUcord:<br>A Sabancı University (SU) version of Discord, with Client and Server modules. The Server oversees messages and channels, while the Client subscribes to channels, sends messages, and views subscribed channel messages. Clients connect by providing their IP address and port via a GUI, identifying themselves with unique usernames. The server maintains a list of connected usernames to prevent duplicates, aiming to create an efficient and secure message networking application for Sabancı University.</h5>
+<p align="left">HealthDB: <br>This project focuses on developing a database application to streamline and manage hospital operations and patient relations effectively. Leveraging MYSQL as the database management system, we plan to utilize a total of 7 entities: hospital, department, doctor, patient, person (utilized as IS-A), appointment, and medical record. The goal is to create a robust system that efficiently organizes and integrates information, enhancing the overall functionality of hospital workflows and improving patient care.</p>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h5 align="left">I'm open to exploring new opportunities, engaging in exciting projects, and tackling fresh challenges. Whether you're considering a potential collaboration, have inquiries about any of my projects, or simply want to extend a greeting, don't hesitate to get in touch. Connect with me on LinkedIn or drop me a message at mertcoskuner@gmail.com. I look forward to hearing from you!</h5>
+<p align="left">I'm open to exploring new opportunities, engaging in exciting projects, and tackling fresh challenges. Whether you're considering a potential collaboration, have inquiries about any of my projects, or simply want to extend a greeting, don't hesitate to get in touch. Connect with me on LinkedIn or drop me a message at mertcoskuner@gmail.com. I look forward to hearing from you!</p>
 
 ###
 
