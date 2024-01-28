@@ -23,7 +23,7 @@
 <h2 align="left">📫 How to reach me:</h2>
 
 
-<p align="left">I'm open to exploring new opportunities, engaging in exciting projects, and tackling fresh challenges. Whether you're considering a potential collaboration, have inquiries about any of my projects, or simply want to extend a greeting, don't hesitate to get in touch. Connect with me on LinkedIn or drop me a message at mertcoskuner@gmail.com. I look forward to hearing from you!</p>
+<p align="left">I'm open to exploring new opportunities, engaging in exciting projects, and tackling fresh challenges. Whether you're considering a potential collaboration, have inquiries about any of my projects, or simply want to extend a greeting, don't hesitate to get in touch. Connect with me on LinkedIn or drop me a message at mertcoskuner@gmail.com.</p>
 
 
 <h2 align="left">⚙️ Technologies:</h2>
