@@ -2,7 +2,6 @@
 
 
 
-<h5 align="left">Currently, a senior Computer Science and Engineering student at Sabanci University</h5>
 
 
 <p align="left">I have a profound enthusiasm for problem-solving and thrive on contributing to my environment through interdisciplinary approaches. Currently a junior student at Sabanci University, my academic foundation is rooted in data structures and object-oriented programming. I am deeply passionate about Software Engineering, with a keen interest in exploring the latest advancements in Mobile Development, Machine Learning, and Data Science.</p>
