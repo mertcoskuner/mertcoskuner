@@ -4,7 +4,7 @@
 
 
 
-<p align="left">I have a profound enthusiasm for problem-solving and thrive on contributing to my environment through interdisciplinary approaches. Currently a junior student at Sabanci University, my academic foundation is rooted in data structures and object-oriented programming. I am deeply passionate about Software Engineering, with a keen interest in exploring the latest advancements in Mobile Development, Machine Learning, and Data Science.</p>
+<p align="left">I have a profound enthusiasm for problem-solving and thrive on contributing to my environment through interdisciplinary approaches. Currently a senior student at Sabanci University, my academic foundation is rooted in data structures and object-oriented programming. I am deeply passionate about Software Engineering, with a keen interest in exploring the latest advancements in Mobile Development, Machine Learning, and Data Science.</p>
 
 
 <h2 align="left">🚀 Projects:</h2>
