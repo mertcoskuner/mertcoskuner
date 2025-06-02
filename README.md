@@ -1,28 +1,28 @@
 <h2 align="left">Hi 👋 I'm Mert! </h2>
 
-
-
-
-
-<p align="left">I have a profound enthusiasm for problem-solving and thrive on contributing to my environment through interdisciplinary approaches. Currently a senior student at Sabanci University, my academic foundation is rooted in data structures and object-oriented programming. I am deeply passionate about Software Engineering, with a keen interest in exploring the latest advancements in Mobile Development, Machine Learning, and Data Science.</p>
-
+<p align="left">I'm a recent graduate from Sabancı University with a deep passion for solving complex problems through data-driven and interdisciplinary approaches. My journey blends machine learning, AI security, and natural language processing, backed by strong software engineering fundamentals. I thrive in environments where curiosity meets purpose—building systems that are not only smart, but also secure, scalable, and ethical.</p>
 
 <h2 align="left">🚀 Projects:</h2>
 <br clear="both">
 
-<p align="left">Digistanbul: A user-friendly application designed for exploring Istanbul's attractions. It stores information on cafes, restaurants, and landmarks, offering personalized recommendations. Users can engage by commenting, rating, and creating accounts. The database includes key details for informed decisions. "Digistanbul" aims to simplify and enhance the discovery of Istanbul's diverse offerings through this intuitive application.</p>
+<p align="left"><b>🧠 Signal Identification with ML & DL</b><br>
+Developed signal classification systems at ER Security Team using classical ML models (XGBoost, LightGBM) and deep learning (MobileNet, custom CNNs). Achieved significant accuracy gains through feature engineering, contributing to robust signal intelligence pipelines.</p>
 
-<p align="left">DiSUcord: A Sabancı University (SU) version of Discord, with Client and Server modules. The Server oversees messages and channels, while the Client subscribes to channels, sends messages, and views subscribed channel messages. Clients connect by providing their IP address and port via a GUI, identifying themselves with unique usernames. The server maintains a list of connected usernames to prevent duplicates, aiming to create an efficient and secure message networking application for Sabancı University.</p>
+<p align="left"><b>🛡️ Federated Learning Security</b><br>
+Built privacy-preserving anomaly detection systems using autoencoders and clustering models. Focused on identifying suspicious behavior in distributed learning environments without compromising data confidentiality.</p>
 
+<p align="left"><b>🧾 LLMs Mimicking Turkish Columnists</b><br>
+Fine-tuned language models to replicate writing styles of Turkish writers under faculty supervision. Implemented Retrieval-Augmented Generation (RAG), ethical alignment strategies, and deployed content generation platform.</p>
 
+<p align="left"><b>🐞 Bug Triage Automation (Kaggle)</b><br>
+Created classification pipeline for bug report severity using Sentence-BERT embeddings and supervised classifiers. Achieved strong benchmark results through preprocessing and hyperparameter tuning.</p>
 
-<p align="left">HealthDB: This project focuses on developing a database application to streamline and manage hospital operations and patient relations effectively. Leveraging MYSQL as the database management system, we plan to utilize a total of 7 entities: hospital, department, doctor, patient, person (utilized as IS-A), appointment, and medical record. The goal is to create a robust system that efficiently organizes and integrates information, enhancing the overall functionality of hospital workflows and improving patient care.</p>
-
+<p align="left"><b>⚡ Circuits Benchmarking with NLP</b><br>
+Analyzed semiconductor circuits using NLP techniques to extract data from academic literature. Applied ML models for performance comparison of CMOS/SiGe/GaN technologies.</p>
 
 <h2 align="left">📫 How to reach me:</h2>
 
-
-<p align="left">I'm open to exploring new opportunities, engaging in exciting projects, and tackling fresh challenges. Whether you're considering a potential collaboration, have inquiries about any of my projects, or simply want to extend a greeting, don't hesitate to get in touch. Connect with me on LinkedIn or drop me a message at mertcoskuner@gmail.com.</p>
+<p align="left">I'm actively exploring opportunities in AI security research and machine learning engineering. Let's connect to discuss ML, AI safety, or innovative projects! Reach out via LinkedIn or email at mertcoskuner@gmail.com.</p>
 
 
 <h2 align="left">⚙️ Technologies:</h2>
