@@ -1,29 +1,49 @@
 <h2 align="left">Hi 👋 I'm Mert! </h2>
 
-<p align="left">I'm a recent graduate from Sabancı University with a deep passion for solving complex problems through data-driven and interdisciplinary approaches. My journey blends machine learning, AI security, and natural language processing, backed by strong software engineering fundamentals. I thrive in environments where curiosity meets purpose—building systems that are not only smart, but also secure, scalable, and ethical.</p>
+<p align="left">I'm a recent graduate from Sabancı University with a deep passion for solving complex problems through data-driven and interdisciplinary approaches. My journey blends machine learning, AI security, and natural language processing, backed by strong software engineering fundamentals.</p>
 
 <h2 align="left">🚀 Projects:</h2>
 <br clear="both">
 
-<p align="left"><b>🧠 Signal Identification with ML & DL</b><br>
-Developed signal classification systems at ER Security Team using classical ML models (XGBoost, LightGBM) and deep learning (MobileNet, custom CNNs). Achieved significant accuracy gains through feature engineering, contributing to robust signal intelligence pipelines.</p>
+<p align="left"><b>🧠 LLMs Talking to Each Other</b><br>
+<u>Core Tech</u>: PyTorch, Hugging Face Transformers, Sentence-BERT<br>
+• Fine-tuned LLMs using columnist-specific datasets (20K+ curated samples)<br>
+• Implemented contrastive learning to amplify stylistic differences between writers<br>
+• Developed custom fidelity metrics: Tone Embedding Similarity (BERT cosine distance) and Argumentation Graph Analysis<br>
+<em>"The ethical alignment layer prevented controversial opinion synthesis while preserving rhetorical style through gradient-based opinion boundaries."</em></p>
 
-<p align="left"><b>🛡️ Federated Learning Security</b><br>
-Built privacy-preserving anomaly detection systems using autoencoders and clustering models. Focused on identifying suspicious behavior in distributed learning environments without compromising data confidentiality.</p>
+<p align="left"><b>🚲 Bike Sharing Rental System Analysis</b><br>
+<u>Core Tech</u>: Scikit-learn, XGBoost, SHAP, Pandas<br>
+• Engineered temporal features using cyclical encoding (sin/cos transforms)<br>
+• Created Weather Impact Scores through PCA-derived composite metrics<br>
+• Optimized regression ensemble (XGBoost + LightGBM) reducing MAE by 22%<br>
+<em>"Counterintuitive discovery: Rental surges occurred during light rain, contradicting initial weather assumptions."</em></p>
 
-<p align="left"><b>🧾 LLMs Mimicking Turkish Columnists</b><br>
-Fine-tuned language models to replicate writing styles of Turkish writers under faculty supervision. Implemented Retrieval-Augmented Generation (RAG), ethical alignment strategies, and deployed content generation platform.</p>
+<p align="left"><b>🗣️ Enhanced Intent Detection</b><br>
+<u>Core Tech</u>: TensorFlow 2.8, spaCy, BERT embeddings, CRF++<br>
+• Upgraded Slot-Gated Modeling with contextual embeddings and hierarchical attention<br>
+• Solved TF version conflicts through custom compatibility wrappers<br>
+• Addressed BIO tagging sparsity via CRF layers and backtranslation<br>
+<em>"CRF layers reduced slot error propagation by 37%, proving sequential dependencies outperform pure attention for this task."</em></p>
 
-<p align="left"><b>🐞 Bug Triage Automation (Kaggle)</b><br>
-Created classification pipeline for bug report severity using Sentence-BERT embeddings and supervised classifiers. Achieved strong benchmark results through preprocessing and hyperparameter tuning.</p>
-
-<p align="left"><b>⚡ Circuits Benchmarking with NLP</b><br>
-Analyzed semiconductor circuits using NLP techniques to extract data from academic literature. Applied ML models for performance comparison of CMOS/SiGe/GaN technologies.</p>
+<p align="left"><b>🐞 Advanced Bug Triage System</b><br>
+<u>Core Tech</u>: Sentence-Transformers, XGBoost, Optuna, spaCy<br>
+• Developed domain-specific lemmatization handling code snippets/error logs<br>
+• Created multi-layer embeddings combining semantic and lexical features<br>
+• Achieved 0.92 F1-score via Optuna-optimized XGBoost (250 trials)<br>
+<em>"Hybrid embeddings outperformed pure BERT - domain adaptation is critical for technical text classification."</em></p>
 
 <h2 align="left">📫 How to reach me:</h2>
 
-<p align="left">I'm actively exploring opportunities in AI security research and machine learning engineering. Let's connect to discuss ML, AI safety, or innovative projects! Reach out via LinkedIn or email at mertcoskuner@gmail.com.</p>
+<p align="left">I'm actively exploring opportunities in AI research and ML engineering. Let's connect to discuss:<br>
+• Secure federated learning implementations<br>
+• LLM fine-tuning challenges<br>
+• Real-world ML optimization techniques<br>
+Reach me at mertcoskuner@gmail.com or LinkedIn below.</p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mertcoskuner@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
 
 <h2 align="left">⚙️ Technologies:</h2>
 
