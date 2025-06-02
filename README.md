@@ -52,14 +52,10 @@ Analyzed bike rental behavior using advanced feature engineering, including cycl
 <h2 align="left">📫 How to reach me:</h2>
 
 <p align="left">I'm actively exploring opportunities in AI research and ML engineering. Let's connect to discuss:<br>
-• Secure federated learning implementations<br>
-• LLM fine-tuning challenges<br>
-• Real-world ML optimization techniques<br>
 Reach me at mertcoskuner@gmail.com or LinkedIn below.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertcoskuner/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mertcoskuner@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
 
 <h2 align="left">⚙️ Technologies:</h2>
 
