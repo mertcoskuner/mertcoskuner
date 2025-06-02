@@ -1,37 +1,54 @@
-<h2 align="left">Hi 👋 I'm Mert! </h2>
+<h2 align="left">Hi 👋 I'm Mert!</h2>
 
-<p align="left">I'm a recent graduate from Sabancı University with a deep passion for solving complex problems through data-driven and interdisciplinary approaches. My journey blends machine learning, AI security, and natural language processing, backed by strong software engineering fundamentals.</p>
+<p align="left">
+I'm a recent graduate from <strong>Sabancı University</strong> with a deep passion for solving complex problems through data-driven and interdisciplinary approaches. My work blends <strong>machine learning</strong>, <strong>AI security</strong>, and <strong>natural language processing</strong>, backed by solid software engineering fundamentals. I thrive where curiosity meets purpose—building systems that are not only intelligent, but also <strong>secure, scalable, and ethical</strong>.
+</p>
 
-<h2 align="left">🚀 Projects:</h2>
-<br clear="both">
+---
 
-<p align="left"><b>🧠 LLMs Talking to Each Other</b><br>
-<u>Core Tech</u>: PyTorch, Hugging Face Transformers, Sentence-BERT<br>
-• Fine-tuned LLMs using columnist-specific datasets (20K+ curated samples)<br>
-• Implemented contrastive learning to amplify stylistic differences between writers<br>
-• Developed custom fidelity metrics: Tone Embedding Similarity (BERT cosine distance) and Argumentation Graph Analysis<br>
-<em>"The ethical alignment layer prevented controversial opinion synthesis while preserving rhetorical style through gradient-based opinion boundaries."</em></p>
+<h2 align="left">🚀 Featured Projects</h2>
+
+<p align="left"><b>🧠 Signal Identification with ML & DL</b><br>
+<u>Core Tech</u>: XGBoost, LightGBM, MobileNet, Custom CNNs<br>
+Developed intelligent signal classification pipelines as part of the ER Security Team. Combined classical ML with deep learning to enhance signal recognition performance. Achieved notable improvements in accuracy through feature engineering and model ensembling, contributing to national-scale signal intelligence workflows.
+</p>
+
+<p align="left"><b>🛡️ Federated Learning Security</b><br>
+<u>Core Tech</u>: Autoencoders, Clustering, CNN<br>
+Built privacy-preserving anomaly detection models to identify malicious behavior in decentralized learning settings. Focused on ensuring data confidentiality while enabling threat detection using reconstruction error analysis and unsupervised clustering of latent representations.
+</p>
+
+<p align="left"><b>🌐 DDoS Attack Detection with Deep Learning</b><br>
+<u>Core Tech</u>: Convolutional Neural Networks (CNN), TensorFlow, Scikit-learn<br>
+Designed and implemented deep learning models to detect and classify DDoS attacks in real-time network traffic data. Focused on optimizing CNN architectures and hyperparameters to improve detection precision and reduce false positives. Validated results on benchmark datasets and integrated explainability tools to assess model decisions.
+</p>
+
+<p align="left"><b>🧾 LLMs Emulating and Comparing Turkish Columnists</b><br>
+<u>Core Tech</u>: Hugging Face Transformers, PyTorch, RAG, Sentence-BERT, Graph Analysis<br>
+Developed a dual-purpose system where LLMs were fine-tuned to replicate and differentiate Turkish newspaper columnists. Used over 20K curated articles to train stylistically aligned models and deployed them in a user-facing interface. Integrated Retrieval-Augmented Generation (RAG) for contextual relevance and built contrastive pipelines to distinguish columnists’ tones. Custom evaluation metrics such as Tone Embedding Similarity (via BERT cosine distance) and Argumentation Graph Analysis were used. Ethical alignment layers were enforced to prevent inappropriate or politically sensitive generations. The project was conducted under faculty supervision.
+</p>
+
+<p align="left"><b>🗣️ Enhanced Intent Detection (ATIS Dataset)</b><br>
+<u>Core Tech</u>: TensorFlow, BERT, spaCy, CRF++<br>
+Improved slot-filling accuracy using Slot-Gated Modeling enhanced with contextual embeddings and CRF layers. Resolved BIO tagging sparsity through data augmentation via backtranslation. Reduced slot error propagation by 37% by leveraging sequential dependencies.
+</p>
+
+---<p align="left"><b>🐞 Advanced Bug Triage System</b><br>
+<u>Core Tech</u>: Sentence-BERT, XGBoost, Optuna, spaCy<br>
+Built a hybrid classification pipeline to predict bug severity levels. Combined semantic embeddings with domain-specific features like code snippet handling and log preprocessing. Achieved 0.92 F1-score through extensive Optuna-based hyperparameter tuning (250+ trials).
+</p>
+
+<p align="left"><b>⚡ Circuits Benchmarking with NLP</b><br>
+<u>Core Tech</u>: NLP, spaCy, Scikit-learn<br>
+Extracted technical details from academic publications to compare CMOS, SiGe, and GaN circuits. Applied NLP parsing and ML analysis to automate benchmarking of emerging semiconductor technologies.
+</p>
 
 <p align="left"><b>🚲 Bike Sharing Rental System Analysis</b><br>
-<u>Core Tech</u>: Scikit-learn, XGBoost, SHAP, Pandas<br>
-• Engineered temporal features using cyclical encoding (sin/cos transforms)<br>
-• Created Weather Impact Scores through PCA-derived composite metrics<br>
-• Optimized regression ensemble (XGBoost + LightGBM) reducing MAE by 22%<br>
-<em>"Counterintuitive discovery: Rental surges occurred during light rain, contradicting initial weather assumptions."</em></p>
+<u>Core Tech</u>: XGBoost, LightGBM, SHAP, PCA<br>
+Analyzed bike rental behavior using advanced feature engineering, including cyclical time encodings and PCA-based weather metrics. Constructed an ensemble model that reduced MAE by 22%, and revealed counterintuitive insights such as increased rentals during light rain.
+</p>
 
-<p align="left"><b>🗣️ Enhanced Intent Detection</b><br>
-<u>Core Tech</u>: TensorFlow 2.8, spaCy, BERT embeddings, CRF++<br>
-• Upgraded Slot-Gated Modeling with contextual embeddings and hierarchical attention<br>
-• Solved TF version conflicts through custom compatibility wrappers<br>
-• Addressed BIO tagging sparsity via CRF layers and backtranslation<br>
-<em>"CRF layers reduced slot error propagation by 37%, proving sequential dependencies outperform pure attention for this task."</em></p>
 
-<p align="left"><b>🐞 Advanced Bug Triage System</b><br>
-<u>Core Tech</u>: Sentence-Transformers, XGBoost, Optuna, spaCy<br>
-• Developed domain-specific lemmatization handling code snippets/error logs<br>
-• Created multi-layer embeddings combining semantic and lexical features<br>
-• Achieved 0.92 F1-score via Optuna-optimized XGBoost (250 trials)<br>
-<em>"Hybrid embeddings outperformed pure BERT - domain adaptation is critical for technical text classification."</em></p>
 
 <h2 align="left">📫 How to reach me:</h2>
 
