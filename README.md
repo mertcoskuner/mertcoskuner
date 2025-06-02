@@ -33,7 +33,7 @@ Developed a dual-purpose system where LLMs were fine-tuned to replicate and diff
 Improved slot-filling accuracy using Slot-Gated Modeling enhanced with contextual embeddings and CRF layers. Resolved BIO tagging sparsity through data augmentation via backtranslation. Reduced slot error propagation by 37% by leveraging sequential dependencies.
 </p>
 
----<p align="left"><b>🐞 Advanced Bug Triage System</b><br>
+<p align="left"><b>🐞 Advanced Bug Triage System</b><br>
 <u>Core Tech</u>: Sentence-BERT, XGBoost, Optuna, spaCy<br>
 Built a hybrid classification pipeline to predict bug severity levels. Combined semantic embeddings with domain-specific features like code snippet handling and log preprocessing. Achieved 0.92 F1-score through extensive Optuna-based hyperparameter tuning (250+ trials).
 </p>
@@ -48,8 +48,7 @@ Extracted technical details from academic publications to compare CMOS, SiGe, an
 Analyzed bike rental behavior using advanced feature engineering, including cyclical time encodings and PCA-based weather metrics. Constructed an ensemble model that reduced MAE by 22%, and revealed counterintuitive insights such as increased rentals during light rain.
 </p>
 
-
-
+---
 <h2 align="left">📫 How to reach me:</h2>
 
 <p align="left">I'm actively exploring opportunities in AI research and ML engineering. Let's connect to discuss:<br>
