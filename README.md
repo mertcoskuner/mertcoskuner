@@ -1,91 +1,76 @@
 <h2 align="left">Hi 👋 I'm Mert!</h2>
 
 <p align="left">
-I'm a recent graduate from <strong>Sabancı University</strong> with a deep passion for solving complex problems through data-driven and interdisciplinary approaches. My work blends <strong>machine learning</strong>, <strong>AI security</strong>, and <strong>natural language processing</strong>, backed by solid software engineering fundamentals. I thrive where curiosity meets purpose—building systems that are not only intelligent, but also <strong>secure, scalable, and ethical</strong>.
+I'm a recent <strong>Sabancı University</strong> graduate passionate about solving complex problems via <strong>machine learning</strong>, <strong>AI security</strong>, and <strong>NLP</strong>. I strive to build systems that are intelligent, secure, scalable, and ethical.
 </p>
 
 ---
 
-<h2 align="left">🚀 Featured Projects</h2>
+<h2 align="left">Featured Projects</h2>
 
-<p align="left"><b>🧠 Signal Identification with ML & DL</b><br>
-<u>Core Tech</u>: XGBoost, LightGBM, MobileNet, Custom CNNs<br>
-Developed intelligent signal classification pipelines as part of the ER Security Team. Combined classical ML with deep learning to enhance signal recognition performance. Achieved notable improvements in accuracy through feature engineering and model ensembling, contributing to national-scale signal intelligence workflows.
-</p>
+- **Signal Identification with ML & DL**
+  - _Core Tech:_ XGBoost, LightGBM, MobileNet, Custom CNNs
+  - Developed hybrid ML/DL pipelines for national-scale signal intelligence, significantly enhancing recognition accuracy.
 
-<p align="left"><b>🛡️ Federated Learning Security</b><br>
-<u>Core Tech</u>: Autoencoders, Clustering, CNN<br>
-Built privacy-preserving anomaly detection models to identify malicious behavior in decentralized learning settings. Focused on ensuring data confidentiality while enabling threat detection using reconstruction error analysis and unsupervised clustering of latent representations.
-</p>
+- **Federated Learning Security**
+  - _Core Tech:_ Autoencoders, Clustering, CNN
+  - Built privacy-preserving anomaly detection models to identify malicious behavior in decentralized learning settings.
 
-<p align="left"><b>🌐 DDoS Attack Detection with Deep Learning</b><br>
-<u>Core Tech</u>: Convolutional Neural Networks (CNN), TensorFlow, Scikit-learn<br>
-Designed and implemented deep learning models to detect and classify DDoS attacks in real-time network traffic data. Focused on optimizing CNN architectures and hyperparameters to improve detection precision and reduce false positives. Validated results on benchmark datasets and integrated explainability tools to assess model decisions.
-</p>
+- **DDoS Attack Detection with Deep Learning**
+  - _Core Tech:_ CNN, TensorFlow, Scikit-learn
+  - Designed real-time deep learning models to detect DDoS attacks with optimized precision and reduced false positives.
 
-<p align="left"><b>🧾 LLMs Emulating and Comparing Turkish Columnists</b><br>
-<u>Core Tech</u>: Hugging Face Transformers, PyTorch, RAG, Sentence-BERT, Graph Analysis<br>
-Developed a dual-purpose system where LLMs were fine-tuned to replicate and differentiate Turkish newspaper columnists. Used over 20K curated articles to train stylistically aligned models and deployed them in a user-facing interface. Integrated Retrieval-Augmented Generation (RAG) for contextual relevance and built contrastive pipelines to distinguish columnists’ tones. Custom evaluation metrics such as Tone Embedding Similarity (via BERT cosine distance) and Argumentation Graph Analysis were used. Ethical alignment layers were enforced to prevent inappropriate or politically sensitive generations. The project was conducted under faculty supervision.
-</p>
+- **LLMs Emulating and Comparing Turkish Columnists**
+  - _Core Tech:_ Hugging Face, PyTorch, RAG, Sentence-BERT
+  - Fine-tuned LLMs to replicate columnist styles using RAG and contrastive pipelines, enforcing ethical alignment to prevent misuse.
 
-<p align="left"><b>🗣️ Enhanced Intent Detection (ATIS Dataset)</b><br>
-<u>Core Tech</u>: TensorFlow, BERT, spaCy, CRF++<br>
-Improved slot-filling accuracy using Slot-Gated Modeling enhanced with contextual embeddings and CRF layers. Resolved BIO tagging sparsity through data augmentation via backtranslation. Reduced slot error propagation by 37% by leveraging sequential dependencies.
-</p>
+- **Enhanced Intent Detection (ATIS Dataset)**
+  - _Core Tech:_ TensorFlow, BERT, spaCy, CRF++
+  - Improved slot-filling accuracy using contextual embeddings and CRF layers, reducing error propagation by 37%.
 
-<p align="left"><b>🐞 Advanced Bug Triage System</b><br>
-<u>Core Tech</u>: Sentence-BERT, XGBoost, Optuna, spaCy<br>
-Built a hybrid classification pipeline to predict bug severity levels. Combined semantic embeddings with domain-specific features like code snippet handling and log preprocessing. Achieved 0.92 F1-score through extensive Optuna-based hyperparameter tuning (250+ trials).
-</p>
+- **Advanced Bug Triage System**
+  - _Core Tech:_ Sentence-BERT, XGBoost, Optuna
+  - Built a hybrid classification pipeline for bug severity prediction, achieving 0.92 F1-score via extensive hyperparameter tuning.
 
-<p align="left"><b>⚡ Circuits Benchmarking with NLP</b><br>
-<u>Core Tech</u>: NLP, spaCy, Scikit-learn<br>
-Extracted technical details from academic publications to compare CMOS, SiGe, and GaN circuits. Applied NLP parsing and ML analysis to automate benchmarking of emerging semiconductor technologies.
-</p>
+- **Circuits Benchmarking with NLP**
+  - _Core Tech:_ NLP, spaCy, Scikit-learn
+  - Automating benchmarking of emerging semiconductor technologies by extracting technical data from academic papers.
 
-<p align="left"><b>🚲 Bike Sharing Rental System Analysis</b><br>
-<u>Core Tech</u>: XGBoost, LightGBM, SHAP, PCA<br>
-Analyzed bike rental behavior using advanced feature engineering, including cyclical time encodings and PCA-based weather metrics. Constructed an ensemble model that reduced MAE by 22%, and revealed counterintuitive insights such as increased rentals during light rain.
-</p>
+- **Bike Sharing Rental System Analysis**
+  - _Core Tech:_ XGBoost, LightGBM, SHAP, PCA
+  - Analyzed rental behavior with advanced feature engineering, revealing counterintuitive insights like increased rentals during light rain.
 
 ---
-<h2 align="left">📫 How to reach me:</h2>
 
-<p align="left">I'm actively exploring opportunities in AI research and ML engineering. Let's connect to discuss:<br>
-Reach me at mertcoskuner@gmail.com or LinkedIn below.</p>
+<h2 align="left">📫 Reach Me</h2>
+
+<p align="left">
+I'm actively exploring opportunities in AI research and ML engineering.
+<br>
+<a href="mailto:mertcoskuner@gmail.com">mertcoskuner@gmail.com</a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertcoskuner/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mertcoskuner@gmail.com)
 
-<h2 align="left">⚙️ Technologies:</h2>
-
+<h2 align="left">⚙️ Technologies</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="pyspark logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/mertcoskuner/mertcoskuner/output/snake.svg" alt="Snake animation" />
-
-
