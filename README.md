@@ -1,43 +1,43 @@
-<h2 align="left">Mert Coskuner</h2>
+<h2 align="left">Hi 👋 I'm Mert!</h2>
 
 <p align="left">
-<strong>ML researcher working on trustworthy machine learning</strong> — Byzantine-robust federated learning, adversarial robustness, and efficient multilingual LLMs.<br>
-MSc @ Sabancı University · Researcher @ TÜBİTAK.
+<strong>MSc @ Sabancı University</strong> · <strong>Researcher @ TÜBİTAK</strong><br>
+I work on <strong>trustworthy &amp; efficient machine learning</strong> — Byzantine-robust federated learning, adversarial robustness, and efficient multilingual LLMs.
 </p>
 
-## About
+<p align="left">
+<a href="https://www.linkedin.com/in/mertcoskuner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mertcoskuner@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mertcoskuner.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-I study *when and why machine learning systems fail* — under poisoned clients, adversarial inputs, distribution shift, and aggressive compression — and I build the benchmarks and defenses to measure and fix it. As a full-time researcher at TÜBİTAK and an MSc student at Sabancı University, my work centers on robustness and reliability in distributed and resource-constrained settings, spanning Byzantine-resilient federated learning, corruption/adversarial robustness of compressed models, and quantization of LLMs for low-resource languages. My MSc thesis direction extends this line into secure and privacy-preserving federated learning.
+### 🔬 Featured Research
 
-## Research Interests
+| Project | What |
+|---|---|
+| **[byzantine-fl-bench](https://github.com/mertcoskuner/byzantine-fl-bench)** | Byzantine-robust FL benchmark — 40+ defenses vs 17 poisoning attacks |
+| **[tr-quantbench](https://github.com/mertcoskuner/tr-quantbench)** | How calibration language shapes 4-bit LLM quantization (Turkish focus) |
+| **[structure-aware-fedala](https://github.com/mertcoskuner/structure-aware-fedala)** | Federated graph learning with degree-calibrated differential privacy |
+| **[robust-distillation](https://github.com/mertcoskuner/robust-distillation)** | Adversarial/corruption robustness + teacher→student transferability |
 
-- **Byzantine-resilient federated learning** — robust aggregation and poisoning/backdoor attacks, including sparsity-aware attack families guided by pruning-at-initialization saliency.
-- **Adversarial and corruption robustness of compressed models** — PGD/AugMix, and how robustness transfers from teacher to distilled student networks.
-- **Efficient multilingual LLMs** — post-training quantization (GPTQ/AWQ) and how calibration language shapes degradation for low-resource languages.
-- **Privacy in federated graph learning** — structure-aware personalized aggregation with degree-calibrated differential privacy.
-- **Reproducible, HPC-scale empirical ML** — controlled ablations and honest negative results on multi-GPU/SLURM clusters.
+<sub>More: <a href="https://github.com/mertcoskuner/gnn-backdoor-attacks">gnn-backdoor-attacks</a> · <a href="https://github.com/mertcoskuner/neural-feedback-codes">neural-feedback-codes</a> · <a href="https://github.com/mertcoskuner/aspect-based-recommender">aspect-based-recommender</a> · <a href="https://github.com/mertcoskuner/mlp-ablation-suite">mlp-ablation-suite</a></sub>
 
-## Selected Projects
+### 🛠️ Tech
 
-- **[byzantine-fl-bench](https://github.com/mertcoskuner/byzantine-fl-bench)** — PyTorch benchmark for Byzantine-robust federated learning: **40+ robust aggregators vs 17 poisoning attacks**, including a novel sparsity-aware attack family (SNIP/GraSP/SynFlow-guided).
-- **[tr-quantbench](https://github.com/mertcoskuner/tr-quantbench)** — how calibration language shapes 4-bit quantization of multilingual LLMs: **Turkish perplexity degradation cut from +49.7% to +19.1%** with native-language calibration.
-- **[structure-aware-fedala](https://github.com/mertcoskuner/structure-aware-fedala)** — structure-aware personalized federated graph learning (topology-weighted aggregation + degree-calibrated DP), benchmarked across **7 graph datasets** on OpenFGL.
-- **[robust-distillation](https://github.com/mertcoskuner/robust-distillation)** — corruption/adversarial robustness of transfer-learned and distilled CNNs: AugMix+JSD, from-scratch PGD (L∞/L2), and a **teacher-to-student adversarial transferability** finding.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PyG](https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+<br>
+![SLURM](https://img.shields.io/badge/SLURM-2C3E50?style=flat&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## More Projects
+<br>
 
-- **[gnn-backdoor-attacks](https://github.com/mertcoskuner/gnn-backdoor-attacks)** — PyTorch Geometric framework for GNN training across graph/node/link tasks with **GTA backdoor attacks** (GCN/SAGE/GAT on TU + Planetoid datasets).
-- **[neural-feedback-codes](https://github.com/mertcoskuner/neural-feedback-codes)** — end-to-end learned channel codes for AWGN with noiseless feedback: transformer TX/RX trained through the channel, with rounds/noise/capacity ablations.
-- **[aspect-based-recommender](https://github.com/mertcoskuner/aspect-based-recommender)** — content-based product recommendation from Amazon reviews via instruction-tuned ABSA, LDA/BERTopic topic modeling, and hierarchical meta-aspect clustering.
-- **[mlp-ablation-suite](https://github.com/mertcoskuner/mlp-ablation-suite)** — configurable PyTorch MLP with a SLURM-orchestrated **22-run ablation** over depth, width, activation, dropout, BatchNorm, and L1/L2 regularization.
-
-## Skills
-
-- **ML:** PyTorch, PyTorch Geometric (PyG), Hugging Face Transformers
-- **Experimentation:** SLURM, multi-GPU training, reproducible pipelines
-- **Infra:** Docker, Kubernetes, AWS/GCP
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertcoskuner/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mertcoskuner@gmail.com)
+<img src="https://raw.githubusercontent.com/mertcoskuner/mertcoskuner/output/snake.svg" alt="Snake animation" />
