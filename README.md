@@ -9,7 +9,7 @@ robustness and distillation, and low-bit quantization of multilingual language m
 
 #### Selected work
 
-| Project | |
+| Project | Focus |
 |---|---|
 | [structure-aware-fedala](https://github.com/mertcoskuner/structure-aware-fedala) | Personalised federated graph learning with topology-weighted aggregation and degree-calibrated differential privacy |
 | [tr-quantbench](https://github.com/mertcoskuner/tr-quantbench) | How calibration language shapes 4-bit GPTQ/AWQ quantization of multilingual LLMs, with a Turkish focus |
