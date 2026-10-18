@@ -20,8 +20,7 @@ robustness and distillation, and low-bit quantization of multilingual language m
 
 More: [adversarial-ml-mnist](https://github.com/mertcoskuner/adversarial-ml-mnist) ·
 [columnist-persona-llm](https://github.com/mertcoskuner/columnist-persona-llm) ·
-[mlp-ablation-suite](https://github.com/mertcoskuner/mlp-ablation-suite) ·
-[undergrad-projects](https://github.com/mertcoskuner/undergrad-projects)
+[mlp-ablation-suite](https://github.com/mertcoskuner/mlp-ablation-suite)
 
 <sub>Python · PyTorch · PyTorch Geometric · Hugging Face · SLURM · Docker</sub>
 
